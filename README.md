@@ -1,15 +1,9 @@
 # Bagaskara Amukti Palapa
 
-```text
-Full-Stack Web Developer | AI & Agentic Workflow Enthusiast | Cyber Security Practitioner
-Informatics Engineering @ Universitas Bina Darma, Palembang
-```
+**Full-Stack Web Developer | AI & Cyber Security Practitioner**  
+Informatics Engineering, Universitas Bina Darma, Palembang
 
-[![Web Developer](https://img.shields.io/badge/Domain-Full--Stack_Web_Dev-02569B?style=flat&logo=codefactor)](https://github.com/BagaskaraAP-Dev)
-[![AI Enthusiast](https://img.shields.io/badge/Domain-AI_Enthusiast-6f42c1?style=flat&logo=openai)](https://github.com/BagaskaraAP-Dev)
-[![Cyber Security](https://img.shields.io/badge/Domain-Cyber_Security_Practitioner-D14836?style=flat&logo=kalilinux)](https://github.com/BagaskaraAP-Dev)
-[![GitHub](https://img.shields.io/badge/GitHub-BagaskaraAP--Dev-181717?style=flat&logo=github)](https://github.com/BagaskaraAP-Dev)
-[![Email](https://img.shields.io/badge/Email-karabagas580%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karabagas580@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-karabagas580%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:karabagas580@gmail.com)
 
 ---
 
