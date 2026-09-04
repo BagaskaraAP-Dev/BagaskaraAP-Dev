@@ -29,7 +29,7 @@ A versatile Informatics Engineering undergraduate bridging modern full-stack web
 ---
 
 <p align="center">
-  <img src="quote-card.svg" alt="Core Philosophy - Bagaskara Amukti Palapa" width="100%">
+  <img src="https://raw.githubusercontent.com/BagaskaraAP-Dev/BagaskaraAP-Dev/main/quote-card.svg" alt="Core Philosophy - Bagaskara Amukti Palapa" width="100%">
 </p>
 
 ---
