@@ -19,9 +19,9 @@ A versatile Informatics Engineering undergraduate bridging the gap between moder
 
 ---
 
-
-> **"In a world full of noise, stay secure in your principles and sharp in your focus."**  
-> *Di dunia yang penuh dengan kebisingan, tetaplah kokoh dalam memegang prinsip dan tajam dalam menentukan fokus.*
+<p align="center">
+  <img src="quote-card.svg" alt="Core Philosophy - Bagaskara Amukti Palapa" width="100%">
+</p>
 
 ---
 
