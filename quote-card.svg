@@ -59,7 +59,7 @@
   <g font-family="'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="33" font-weight="600" fill="#C0CAF5">
     <text x="70" y="112">Build it like an <tspan fill="#9ECE6A">engineer.</tspan></text>
     <text x="70" y="156">Think like an <tspan fill="#F7768E">attacker.</tspan></text>
-    <text x="70" y="200">Defend it like a <tspan fill="#7AA2F7">Blue Team.</tspan></text>
+    <text x="70" y="200">Defend it like a <tspan fill="#7AA2F7">defender</tspan></text>
   </g>
 
   <text x="70" y="238" font-family="'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Arial, sans-serif"
