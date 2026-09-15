@@ -177,6 +177,13 @@ A versatile Informatics Engineering undergraduate bridging modern full-stack web
   - Deployed on GitHub Pages with automated GitHub Actions CI integrity verification.
   - [Live Demo](https://bagaskaraap-dev.github.io/kostan-bagaskaraap-dev/) | [Repository](https://github.com/BagaskaraAP-Dev/kostan-bagaskaraap-dev)
 
+- **[BDCA Learn](https://github.com/BagaskaraAP-Dev/bdca-learn)**
+  - *Interactive Learning Platform with Virtual Terminal & Spreadsheet Labs*
+  - Engineered with Next.js, React, TypeScript, and SQLite WAL database.
+  - Features real-time Linux sandboxed terminal (`just-bash`), spreadsheet formula engine (`fast-formula-parser`), Question Arena with 20+ real-world study cases, and multi-tier learning curricula (Excel, Terminal, Cybersecurity, and Microsoft Word).
+  - Automated server-side grading engine, custom role-based access (admin, core, student), and OAuth2 social authentication.
+  - [Repository](https://github.com/BagaskaraAP-Dev/bdca-learn)
+
 - **[Mooncrust AI](https://github.com/BagaskaraAP-Dev/MOONCRUST-AI-BELUM-FINAL)**
   - *Conversational AI Assistant & LLM Interface*
   - Lightweight, high-performance web interface utilizing Vanilla JavaScript to manage complex chat state, dynamic DOM updates, and asynchronous LLM API calls.
