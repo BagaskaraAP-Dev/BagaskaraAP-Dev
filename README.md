@@ -24,20 +24,12 @@
 
 ---
 
-<!-- Stats Row: 3 stats in 1 row dengan fire streak -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-stats-extended.vercel.app/api?username=BagaskaraAP-Dev&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub stats" />
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=BagaskaraAP-Dev&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="GitHub streak" />
-    </td>
-    <td align="center">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=BagaskaraAP-Dev&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true" height="150" alt="Top languages" />
-    </td>
-  </tr>
-</table>
+<!-- GitHub Stats: Minimalist 2-Card Clean -->
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=BagaskaraAP-Dev&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=BagaskaraAP-Dev&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+</p>
 
 ---
 

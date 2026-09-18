@@ -11,14 +11,19 @@
 
     <!-- Flame Animation Styles: Pure blazing heat without side-to-side wobble & NO blinking cursor -->
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;family=JetBrains+Mono:wght@500;700&amp;display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;family=JetBrains+Mono:wght@500;700;800&amp;display=swap');
 
       .pixel-font {
         font-family: 'Press Start 2P', monospace;
       }
 
       .mono-font {
-        font-family: 'JetBrains Mono', 'Courier New', monospace;
+        font-family: 'JetBrains Mono', 'Cascadia Code', 'Fira Code', Consolas, monospace;
+      }
+
+      .core-statement {
+        font-family: 'JetBrains Mono', 'Cascadia Code', 'Fira Code', 'SF Mono', Consolas, monospace;
+        letter-spacing: 0.5px;
       }
 
       /* Fire Core Upward Blazing Animation (Vertical heat only) */
@@ -140,9 +145,6 @@
   <rect x="44" y="22" width="12" height="12" fill="#e0af68"/>
   <rect x="64" y="22" width="12" height="12" fill="#9ece6a"/>
 
-  <!-- Terminal Title -->
-  <text x="92" y="31" class="pixel-font" font-size="10" fill="#7aa2f7" letter-spacing="1">SYSTEM://BAGASKARA.EXE — [PHILOSOPHY.SH]</text>
-
   <!-- Status indicator -->
   <g transform="translate(730, 20)">
     <rect x="0" y="0" width="140" height="16" fill="#13141f" stroke="#33384d" stroke-width="1"/>
@@ -157,7 +159,7 @@
   <g transform="translate(48, 60)">
     <text x="0" y="24" class="pixel-font" font-size="11" fill="#ff9e3b" letter-spacing="2">&gt; CORE_MINDSET</text>
 
-    <g class="pixel-font" font-size="16">
+    <g class="core-statement" font-size="21" font-weight="700">
       <text x="0" y="68" fill="#a9b1d6">BUILD IT LIKE AN <tspan fill="#9ece6a">ENGINEER.</tspan></text>
       <text x="0" y="108" fill="#a9b1d6">THINK LIKE AN <tspan fill="#f7768e">ATTACKER.</tspan></text>
       <text x="0" y="148" fill="#a9b1d6">DEFEND IT LIKE A <tspan fill="#7aa2f7">GUARDIAN.</tspan></text>
