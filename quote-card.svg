@@ -1,77 +1,235 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-label="Core Philosophy - Bagaskara Amukti Palapa">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-label="Core Philosophy - Bagaskara Amukti Palapa">
 
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#1A1B27"/>
-      <stop offset="55%" stop-color="#1F2335"/>
-      <stop offset="100%" stop-color="#24283B"/>
-    </linearGradient>
-
-    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#BB9AF7"/>
-      <stop offset="50%" stop-color="#7AA2F7"/>
-      <stop offset="100%" stop-color="#9ECE6A"/>
-    </linearGradient>
-
-    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0%" stop-color="#BB9AF7" stop-opacity="0.28"/>
-      <stop offset="100%" stop-color="#BB9AF7" stop-opacity="0"/>
-    </radialGradient>
-
-    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0%" stop-color="#7AA2F7" stop-opacity="0.22"/>
-      <stop offset="100%" stop-color="#7AA2F7" stop-opacity="0"/>
-    </radialGradient>
-
-    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
-      <path d="M26 0 H0 V26" fill="none" stroke="#2B3048" stroke-width="1"/>
+    <!-- Pixel Grid Pattern -->
+    <pattern id="pixelGrid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect width="16" height="16" fill="#13141f"/>
+      <rect x="0" y="0" width="15" height="15" fill="#181926"/>
+      <rect x="0" y="0" width="1" height="1" fill="#24283b" opacity="0.6"/>
     </pattern>
 
-    <clipPath id="card">
-      <rect x="0" y="0" width="900" height="330" rx="18"/>
-    </clipPath>
+    <!-- Flame Animation Styles -->
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;family=JetBrains+Mono:wght@500;700&amp;display=swap');
+
+      .pixel-font {
+        font-family: 'Press Start 2P', monospace;
+      }
+
+      .mono-font {
+        font-family: 'JetBrains Mono', 'Courier New', monospace;
+      }
+
+      @keyframes flameDance {
+        0%, 100% { transform: translateY(0px) scaleY(1); }
+        25% { transform: translateY(-3px) scaleY(1.08) scaleX(0.96); }
+        50% { transform: translateY(1px) scaleY(0.95); }
+        75% { transform: translateY(-4px) scaleY(1.1) scaleX(1.03); }
+      }
+
+      @keyframes emberFloat1 {
+        0% { transform: translate(0, 0); opacity: 1; }
+        100% { transform: translate(-8px, -45px); opacity: 0; }
+      }
+
+      @keyframes emberFloat2 {
+        0% { transform: translate(0, 0); opacity: 1; }
+        100% { transform: translate(10px, -55px); opacity: 0; }
+      }
+
+      @keyframes emberFloat3 {
+        0% { transform: translate(0, 0); opacity: 1; }
+        100% { transform: translate(-4px, -60px); opacity: 0; }
+      }
+
+      @keyframes blink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+
+      @keyframes neonPulse {
+        0%, 100% { filter: drop-shadow(0 0 6px rgba(255, 106, 0, 0.6)); }
+        50% { filter: drop-shadow(0 0 16px rgba(255, 51, 0, 0.9)); }
+      }
+
+      .flame-core {
+        animation: flameDance 0.8s ease-in-out infinite;
+        transform-origin: bottom center;
+      }
+
+      .flame-glow {
+        animation: neonPulse 1.8s ease-in-out infinite;
+      }
+
+      .ember-1 { animation: emberFloat1 1.4s ease-out infinite; }
+      .ember-2 { animation: emberFloat2 1.8s ease-out infinite 0.4s; }
+      .ember-3 { animation: emberFloat3 1.2s ease-out infinite 0.7s; }
+
+      .cursor { animation: blink 1s infinite; }
+    </style>
+
+    <!-- Linear Accent for Borders -->
+    <linearGradient id="fireGrad" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#ff1a1a"/>
+      <stop offset="40%" stop-color="#ff6600"/>
+      <stop offset="80%" stop-color="#ffcc00"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+
+    <linearGradient id="cyberBorder" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff4400"/>
+      <stop offset="50%" stop-color="#7aa2f7"/>
+      <stop offset="100%" stop-color="#bb9af7"/>
+    </linearGradient>
   </defs>
 
-  <g clip-path="url(#card)">
-    <rect x="0" y="0" width="900" height="330" fill="url(#bg)"/>
-    <rect x="0" y="0" width="900" height="330" fill="url(#grid)" opacity="0.4"/>
-    <circle cx="820" cy="30" r="240" fill="url(#glowA)"/>
-    <circle cx="90" cy="320" r="230" fill="url(#glowB)"/>
-    <rect x="0" y="0" width="6" height="330" fill="url(#accent)"/>
+  <!-- Base Background -->
+  <rect width="900" height="320" fill="url(#pixelGrid)" rx="6"/>
+
+  <!-- Pixelated Stepped Border Corners -->
+  <!-- Outer border -->
+  <rect x="4" y="4" width="892" height="312" fill="none" stroke="#2a2e45" stroke-width="2"/>
+  <rect x="8" y="8" width="884" height="304" fill="none" stroke="#ff5500" stroke-width="2" opacity="0.5"/>
+
+  <!-- Pixel Corner Blocks -->
+  <g fill="#ff5500">
+    <!-- Top Left -->
+    <rect x="4" y="4" width="12" height="4"/>
+    <rect x="4" y="8" width="4" height="8"/>
+    <!-- Top Right -->
+    <rect x="884" y="4" width="12" height="4"/>
+    <rect x="892" y="8" width="4" height="8"/>
+    <!-- Bottom Left -->
+    <rect x="4" y="312" width="12" height="4"/>
+    <rect x="4" y="304" width="4" height="8"/>
+    <!-- Bottom Right -->
+    <rect x="884" y="312" width="12" height="4"/>
+    <rect x="892" y="304" width="4" height="8"/>
   </g>
 
-  <rect x="0.75" y="0.75" width="898.5" height="328.5" rx="17.25" fill="none" stroke="#333B54" stroke-width="1.5"/>
+  <!-- Window Header Bar (Pixel Style) -->
+  <rect x="12" y="12" width="876" height="32" fill="#1f2335"/>
+  <rect x="12" y="44" width="876" height="2" fill="#ff5500" opacity="0.8"/>
 
-  <circle cx="812" cy="44" r="5" fill="#F7768E" opacity="0.85"/>
-  <circle cx="832" cy="44" r="5" fill="#E0AF68" opacity="0.85"/>
-  <circle cx="852" cy="44" r="5" fill="#9ECE6A" opacity="0.85"/>
+  <!-- Window Buttons (Pixel squares) -->
+  <rect x="24" y="22" width="12" height="12" fill="#f7768e"/>
+  <rect x="44" y="22" width="12" height="12" fill="#e0af68"/>
+  <rect x="64" y="22" width="12" height="12" fill="#9ece6a"/>
 
-  <text x="46" y="152" font-family="Georgia, 'Times New Roman', serif" font-size="150" fill="#7AA2F7" opacity="0.13">&#8220;</text>
+  <!-- Terminal Title -->
+  <text x="92" y="31" class="pixel-font" font-size="10" fill="#7aa2f7" letter-spacing="1">SYSTEM://BAGASKARA.EXE — [PHILOSOPHY.SH]</text>
 
-  <rect x="47" y="38" width="8" height="14" rx="1.5" fill="#7AA2F7">
-    <animate attributeName="opacity" values="1;0.08;1" dur="1.6s" repeatCount="indefinite"/>
-  </rect>
-
-  <text x="70" y="50" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace"
-        font-size="12.5" letter-spacing="5" fill="#7AA2F7" opacity="0.85">CORE PHILOSOPHY</text>
-
-  <g font-family="'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="33" font-weight="600" fill="#C0CAF5">
-    <text x="70" y="112">Build it like an <tspan fill="#9ECE6A">engineer.</tspan></text>
-    <text x="70" y="156">Think like an <tspan fill="#F7768E">attacker.</tspan></text>
-    <text x="70" y="200">Defend it like a <tspan fill="#7AA2F7">defender</tspan></text>
+  <!-- Status indicator -->
+  <g transform="translate(730, 20)">
+    <rect x="0" y="0" width="140" height="16" fill="#13141f" stroke="#33384d" stroke-width="1"/>
+    <rect x="6" y="5" width="6" height="6" fill="#9ece6a"/>
+    <text x="18" y="12" class="pixel-font" font-size="8" fill="#9ece6a">FIRE STREAK: ON</text>
   </g>
 
-  <text x="70" y="238" font-family="'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Arial, sans-serif"
-        font-size="15" fill="#828BB0">Learning never stops &#8212; every system still has something left to teach.</text>
+  <!-- Left Accent Decorative Line -->
+  <rect x="24" y="60" width="4" height="210" fill="url(#fireGrad)"/>
 
-  <line x1="70" y1="266" x2="830" y2="266" stroke="#333B54" stroke-width="1.5"/>
+  <!-- Core Content Quotation -->
+  <g transform="translate(48, 60)">
 
-  <text x="70" y="296" font-family="'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Arial, sans-serif"
-        font-size="14.5" font-weight="600" fill="#7AA2F7">Bagaskara Amukti Palapa</text>
+    <!-- Subtitle / Mode -->
+    <text x="0" y="24" class="pixel-font" font-size="11" fill="#ff9e3b" letter-spacing="2">&gt; CORE_MINDSET</text>
+    <rect x="150" y="14" width="8" height="12" fill="#ff9e3b" class="cursor"/>
 
-  <text x="830" y="296" text-anchor="end"
-        font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace"
-        font-size="12.5" fill="#565F89">AI &amp; ML &#183; Blue Team &#183; Full-Stack Web</text>
+    <!-- Main Philosophy Sentences in Retro/Pixel Aesthetic -->
+    <g class="pixel-font" font-size="16">
+      <!-- Line 1 -->
+      <text x="0" y="68" fill="#a9b1d6">BUILD IT LIKE AN <tspan fill="#9ece6a">ENGINEER.</tspan></text>
+
+      <!-- Line 2 -->
+      <text x="0" y="108" fill="#a9b1d6">THINK LIKE AN <tspan fill="#f7768e">ATTACKER.</tspan></text>
+
+      <!-- Line 3 -->
+      <text x="0" y="148" fill="#a9b1d6">DEFEND IT LIKE A <tspan fill="#7aa2f7">GUARDIAN.</tspan></text>
+    </g>
+
+    <!-- Sub-quote -->
+    <text x="0" y="184" class="mono-font" font-size="13" fill="#787c99">
+      /* Learning never stops — every system still has something left to teach. */
+    </text>
+  </g>
+
+  <!-- ============================================== -->
+  <!-- PIXEL ART FLAME CLUSTER (Right Side Hero Art) -->
+  <!-- ============================================== -->
+  <g transform="translate(750, 160)" class="flame-glow">
+
+    <!-- Embers Rising (Animated) -->
+    <rect x="-8" y="-40" width="6" height="6" fill="#ffe066" class="ember-1"/>
+    <rect x="14" y="-35" width="5" height="5" fill="#ff5500" class="ember-2"/>
+    <rect x="-2" y="-55" width="6" height="6" fill="#ff1a1a" class="ember-3"/>
+    <rect x="22" y="-20" width="4" height="4" fill="#ffaa00" class="ember-1"/>
+    <rect x="-16" y="-25" width="5" height="5" fill="#ff3300" class="ember-2"/>
+
+    <!-- Animated Main Flame Body (8-Bit Voxel/Pixel Style) -->
+    <g class="flame-core">
+      <!-- Base Smoke / Dark glow -->
+      <g fill="#401010" opacity="0.6">
+        <rect x="-36" y="24" width="72" height="16"/>
+        <rect x="-30" y="12" width="60" height="20"/>
+      </g>
+
+      <!-- Outer Fire (Red / Deep Orange) -->
+      <g fill="#e61919">
+        <rect x="-30" y="20" width="60" height="16"/>
+        <rect x="-24" y="4" width="48" height="24"/>
+        <rect x="-18" y="-12" width="36" height="24"/>
+        <rect x="-12" y="-28" width="24" height="20"/>
+        <rect x="-6" y="-40" width="12" height="16"/>
+        <rect x="-18" y="-4" width="6" height="12"/>
+        <rect x="12" y="-8" width="6" height="16"/>
+      </g>
+
+      <!-- Mid Fire (Orange / Amber) -->
+      <g fill="#ff7700">
+        <rect x="-20" y="22" width="40" height="14"/>
+        <rect x="-16" y="8" width="32" height="20"/>
+        <rect x="-12" y="-6" width="24" height="18"/>
+        <rect x="-6" y="-22" width="12" height="20"/>
+        <rect x="-2" y="-32" width="6" height="12"/>
+      </g>
+
+      <!-- Inner Fire (Yellow Core) -->
+      <g fill="#ffdd00">
+        <rect x="-12" y="24" width="24" height="12"/>
+        <rect x="-8" y="14" width="16" height="14"/>
+        <rect x="-4" y="2" width="8" height="16"/>
+        <rect x="-2" y="-10" width="4" height="14"/>
+      </g>
+
+      <!-- Hot Center (White Sparks) -->
+      <g fill="#ffffff">
+        <rect x="-4" y="26" width="8" height="8"/>
+        <rect x="-2" y="18" width="4" height="10"/>
+      </g>
+    </g>
+
+    <!-- Campfire / Server Logs (Pixel wood logs under flame) -->
+    <g fill="#5c3b1a">
+      <rect x="-36" y="38" width="72" height="8"/>
+      <rect x="-30" y="46" width="60" height="6"/>
+      <rect x="-24" y="34" width="48" height="4" fill="#3e2610"/>
+      <rect x="-12" y="38" width="6" height="8" fill="#8b5a2b"/>
+      <rect x="10" y="38" width="6" height="8" fill="#8b5a2b"/>
+    </g>
+  </g>
+
+  <!-- Bottom Divider Line -->
+  <line x1="24" y1="278" x2="876" y2="278" stroke="#2a2e45" stroke-width="2"/>
+  <rect x="24" y="278" width="120" height="2" fill="#ff5500"/>
+
+  <!-- Footer Info -->
+  <g class="mono-font" font-size="12">
+    <text x="24" y="298" fill="#7aa2f7" font-weight="700">BAGASKARA AMUKTI PALAPA</text>
+    <text x="220" y="298" fill="#565f89">|</text>
+    <text x="235" y="298" fill="#a9b1d6">Informatics Engineering @ Universitas Bina Darma</text>
+    <text x="876" y="298" text-anchor="end" class="pixel-font" font-size="9" fill="#ff9e3b">STREAK &amp; FOCUS &#x1F525;</text>
+  </g>
 
 </svg>
