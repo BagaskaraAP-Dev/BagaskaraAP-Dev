@@ -19,7 +19,7 @@
 
 <!-- Animated Pixel & Fire Quote Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BagaskaraAP-Dev/BagaskaraAP-Dev/main/quote-card.svg" alt="Core Philosophy - Bagaskara Amukti Palapa" width="100%">
+  <img src="https://raw.githubusercontent.com/BagaskaraAP-Dev/BagaskaraAP-Dev/main/quote-card.svg?v=2" alt="Core Philosophy - Bagaskara Amukti Palapa" width="100%">
 </p>
 
 ---
