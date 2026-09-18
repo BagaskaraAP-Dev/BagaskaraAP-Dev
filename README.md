@@ -61,6 +61,17 @@
 
 ---
 
+<!-- Honors & Certifications -->
+<h3 align="center">🏆 Honors &amp; Certifications</h3>
+
+- 🥈 **2nd Place Winner**, LKS Cyber Security Tingkat Provinsi Sumatera Selatan (2025)
+- 📜 **White-hat Hacker Essentials**, Certificate of Completion
+- 📜 **Blue Team Fundamentals**, Certificate of Completion
+- 📜 **Fundamental Front-End Web Development**, Certificate of Completion
+- 🚀 **Pelatihan Vibe Coding**, Politeknik Negeri Sriwijaya (POLSRI, 2026)
+
+---
+
 <!-- Tech Stack: Logo Berderet Rapi -->
 <h3 align="center">🛠️ Tech Stack &amp; Tools</h3>
 <p align="center">
