@@ -28,13 +28,13 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=BagaskaraAP-Dev&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=BagaskaraAP-Dev&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub stats" />
     </td>
     <td align="center">
       <img src="https://streak-stats.demolab.com?user=BagaskaraAP-Dev&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="GitHub streak" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BagaskaraAP-Dev&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true" height="150" alt="Top languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=BagaskaraAP-Dev&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true" height="150" alt="Top languages" />
     </td>
   </tr>
 </table>
@@ -43,9 +43,9 @@
 
 <!-- About / Bio -->
 <p align="center">
-  🛡️ <b>Cyber Security & Blue Team</b> — Fokus pada defensive security, threat detection, dan aktif CTF (Juara 2 LKS Cyber Security Sumsel 2025)<br>
-  💻 <b>Full-Stack Development</b> — Membangun aplikasi web modern dengan JavaScript, TypeScript, PHP & Laravel, dan REST API<br>
-  🤖 <b>AI & LLM Exploration</b> — Eksplorasi local LLMs, Ollama, RAG, dan agentic workflow<br>
+  🛡️ <b>Cyber Security &amp; Blue Team</b> — Fokus pada defensive security, threat detection, dan aktif CTF (Juara 2 LKS Cyber Security Sumsel 2025)<br>
+  💻 <b>Full-Stack Development</b> — Membangun aplikasi web modern dengan JavaScript, TypeScript, Vue.js, PHP &amp; Laravel, dan REST API<br>
+  🤖 <b>AI &amp; LLM Exploration</b> — Eksplorasi local LLMs, Ollama, RAG, dan agentic workflow<br>
   🎓 <b>Education</b> — S1 Teknik Informatika di Universitas Bina Darma (Alumni TKJ SMK Muhammadiyah 03 Sukaraja)
 </p>
 
@@ -54,8 +54,8 @@
 <!-- Selected Projects -->
 <h3 align="center">🚀 Selected Projects</h3>
 
-- **[BDCA Learn](https://github.com/BagaskaraAP-Dev/bdca-learn)** — Platform belajar interaktif dengan terminal Linux sandboxed & formula engine
-- **[Kostan Management](https://github.com/BagaskaraAP-Dev/kostan-bagaskaraap-dev)** — Sistem manajemen booking & properti kosan full-stack dengan automated CI/CD
+- **[BDCA Learn](https://github.com/BagaskaraAP-Dev/bdca-learn)** — Platform belajar interaktif dengan terminal Linux sandboxed &amp; formula engine
+- **[Kostan Management](https://github.com/BagaskaraAP-Dev/kostan-bagaskaraap-dev)** — Sistem manajemen booking &amp; properti kosan full-stack dengan automated CI/CD
 - **[Mooncrust AI](https://github.com/BagaskaraAP-Dev/MOONCRUST-AI-BELUM-FINAL)** — Web interface chatbot asisten AI interaktif dengan state management
 - **[Writeup CTF](https://github.com/BagaskaraAP-Dev/Writeup-Techtonic-CTF-2026)** — Kumpulan catatan dan solusi kompetisi CTF (Forensics, Crypto, Web)
 
@@ -76,26 +76,30 @@
 <h3 align="center">🛠️ Tech Stack &amp; Tools</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-  <img width="12" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" title="Vue.js" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-  <img width="12" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/laragon/0E83CD" height="40" alt="Laragon" title="Laragon" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="40" alt="Wireshark" title="Wireshark" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="Wireshark" title="Wireshark" />
 </p>
 
 ---
