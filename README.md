@@ -43,11 +43,11 @@
 
 <!-- About / Bio -->
 <p align="center">
-  <b>Cyber Security &amp; Blue Team</b> — Fokus pada defensive security, threat detection, dan aktif CTF <br>
+  <b>Cyber Security &amp; Blue Team</b> — Fokus pada defensive security, threat detection, dan aktif CTF<br>
   <b>Full-Stack Development</b> — Membangun aplikasi web modern dengan JavaScript, TypeScript, Vue.js, PHP &amp; Laravel, dan REST API<br>
   <b>AI &amp; LLM Exploration</b> — Eksplorasi local LLMs, Ollama, RAG, dan agentic workflow<br>
-  <b>Education</b> — S1 Teknik Informatika di Universitas Bina Darma 
-  <b>Education</b> — SMK MUHAMMADIYAH 03 SUKARAJA 2025N
+  <b>Education</b> — S1 Teknik Informatika di Universitas Bina Darma<br>
+  <b>Education</b> — SMK Muhammadiyah 03 Sukaraja (2025)
 </p>
 
 ---
@@ -69,7 +69,7 @@
 - 📜 **White-hat Hacker Essentials**, Certificate of Completion
 - 📜 **Blue Team Fundamentals**, Certificate of Completion
 - 📜 **Fundamental Front-End Web Development**, Certificate of Completion
-- 📜**Pelatihan Vibe Coding**, Politeknik Negeri Sriwijaya (POLSRI, 2026)
+- 📜 **Pelatihan Vibe Coding**, Politeknik Negeri Sriwijaya (POLSRI, 2026)
 
 ---
 
