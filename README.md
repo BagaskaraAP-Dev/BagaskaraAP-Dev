@@ -52,7 +52,7 @@
 ---
 
 <!-- Selected Projects -->
-<h3 align="center">🚀 Selected Projects</h3>
+<h3 align="center">Selected Projects</h3>
 
 - **[BDCA Learn](https://github.com/BagaskaraAP-Dev/bdca-learn)** — Platform belajar interaktif dengan terminal Linux sandboxed &amp; formula engine
 - **[Kostan Management](https://github.com/BagaskaraAP-Dev/kostan-bagaskaraap-dev)** — Sistem manajemen booking &amp; properti kosan full-stack dengan automated CI/CD
@@ -62,13 +62,13 @@
 ---
 
 <!-- Honors & Certifications -->
-<h3 align="center">🏆 Honors &amp; Certifications</h3>
+<h3 align="center"> Honors &amp; Certifications</h3>
 
 - 🥈 **2nd Place Winner**, LKS Cyber Security Tingkat Provinsi Sumatera Selatan (2025)
 - 📜 **White-hat Hacker Essentials**, Certificate of Completion
 - 📜 **Blue Team Fundamentals**, Certificate of Completion
 - 📜 **Fundamental Front-End Web Development**, Certificate of Completion
-- 🚀 **Pelatihan Vibe Coding**, Politeknik Negeri Sriwijaya (POLSRI, 2026)
+- 📜**Pelatihan Vibe Coding**, Politeknik Negeri Sriwijaya (POLSRI, 2026)
 
 ---
 
