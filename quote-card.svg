@@ -9,7 +9,7 @@
       <rect x="0" y="0" width="1" height="1" fill="#24283b" opacity="0.6"/>
     </pattern>
 
-    <!-- Flame Animation Styles: Pure blazing heat without side-to-side wobble -->
+    <!-- Flame Animation Styles: Pure blazing heat without side-to-side wobble & NO blinking cursor -->
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;family=JetBrains+Mono:wght@500;700&amp;display=swap');
 
@@ -21,7 +21,7 @@
         font-family: 'JetBrains Mono', 'Courier New', monospace;
       }
 
-      /* Fire Core Upward Blazing Animation (NO horizontal shaking) */
+      /* Fire Core Upward Blazing Animation (Vertical heat only) */
       @keyframes blazeMain {
         0%, 100% { transform: scaleY(1); opacity: 0.98; }
         25% { transform: scaleY(1.14); opacity: 1; }
@@ -68,11 +68,6 @@
         100% { transform: translateY(-80px); opacity: 0; }
       }
 
-      @keyframes blinkCursor {
-        0%, 49% { opacity: 1; }
-        50%, 100% { opacity: 0; }
-      }
-
       @keyframes fireHeatGlow {
         0%, 100% { filter: drop-shadow(0 -4px 10px rgba(255, 85, 0, 0.6)); }
         50% { filter: drop-shadow(0 -8px 24px rgba(255, 140, 0, 0.9)); }
@@ -106,8 +101,6 @@
       .ember-p2 { animation: emberFly2 1.5s ease-out infinite 0.3s; }
       .ember-p3 { animation: emberFly3 1.3s ease-out infinite 0.6s; }
       .ember-p4 { animation: emberFly4 1.7s ease-out infinite 0.9s; }
-
-      .cursor { animation: blinkCursor 1s infinite; }
     </style>
 
     <!-- Linear Accent for Borders -->
@@ -160,10 +153,9 @@
   <!-- Left Accent Decorative Line -->
   <rect x="24" y="60" width="4" height="210" fill="url(#fireGrad)"/>
 
-  <!-- Core Content Quotation -->
+  <!-- Core Content Quotation (Clean without any blinking cursor) -->
   <g transform="translate(48, 60)">
     <text x="0" y="24" class="pixel-font" font-size="11" fill="#ff9e3b" letter-spacing="2">&gt; CORE_MINDSET</text>
-    <rect x="150" y="14" width="8" height="12" fill="#ff9e3b" class="cursor"/>
 
     <g class="pixel-font" font-size="16">
       <text x="0" y="68" fill="#a9b1d6">BUILD IT LIKE AN <tspan fill="#9ece6a">ENGINEER.</tspan></text>
