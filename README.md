@@ -43,10 +43,11 @@
 
 <!-- About / Bio -->
 <p align="center">
-  🛡️ <b>Cyber Security &amp; Blue Team</b> — Fokus pada defensive security, threat detection, dan aktif CTF (Juara 2 LKS Cyber Security Sumsel 2025)<br>
-  💻 <b>Full-Stack Development</b> — Membangun aplikasi web modern dengan JavaScript, TypeScript, Vue.js, PHP &amp; Laravel, dan REST API<br>
-  🤖 <b>AI &amp; LLM Exploration</b> — Eksplorasi local LLMs, Ollama, RAG, dan agentic workflow<br>
-  🎓 <b>Education</b> — S1 Teknik Informatika di Universitas Bina Darma (Alumni TKJ SMK Muhammadiyah 03 Sukaraja)
+  <b>Cyber Security &amp; Blue Team</b> — Fokus pada defensive security, threat detection, dan aktif CTF <br>
+  <b>Full-Stack Development</b> — Membangun aplikasi web modern dengan JavaScript, TypeScript, Vue.js, PHP &amp; Laravel, dan REST API<br>
+  <b>AI &amp; LLM Exploration</b> — Eksplorasi local LLMs, Ollama, RAG, dan agentic workflow<br>
+  <b>Education</b> — S1 Teknik Informatika di Universitas Bina Darma 
+  <b>Education</b> — SMK MUHAMMADIYAH 03 SUKARAJA 2025N
 </p>
 
 ---
