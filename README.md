@@ -1,4 +1,4 @@
-<h1 align="center">Haiii ! I'm Bagaskara Amukti Palapa</h1>
+<h1 align="center">Haii ! I'm Bagaskara Amukti Palapa</h1>
 
 <p align="center">
   <b>Informatics Engineering • Universitas Bina Darma, Palembang</b><br>
