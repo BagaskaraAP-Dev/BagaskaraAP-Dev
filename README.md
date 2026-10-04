@@ -64,7 +64,7 @@
 
 <!-- Honors & Certifications -->
 <h3 align="center"> Honors &amp; Certifications</h3>
-
+- 🥈 **2nd Place Winner**, Nusantara Cyber Security Tingkat Provinsi Sumatera Selatan (2026)
 - 🥈 **2nd Place Winner**, LKS Cyber Security Tingkat Provinsi Sumatera Selatan (2025)
 - 📜 **White-hat Hacker Essentials**, Certificate of Completion
 - 📜 **Blue Team Fundamentals**, Certificate of Completion
