@@ -63,7 +63,9 @@
 ---
 
 <!-- Honors & Certifications -->
-<h3 align="center"> Honors &amp; Certifications</h3>
+<h3 align="center">Honors &amp; Certifications</h3>
+
+- 🏆 **Winner**, IT Festival Cyber Security, Politeknik Negeri Sriwijaya (POLSRI, 2026)
 - 🥈 **2nd Place Winner**, Nusantara Cyber Security Tingkat Provinsi Sumatera Selatan (2026)
 - 🥈 **2nd Place Winner**, LKS Cyber Security Tingkat Provinsi Sumatera Selatan (2025)
 - 📜 **White-hat Hacker Essentials**, Certificate of Completion
