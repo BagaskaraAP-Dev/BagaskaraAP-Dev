@@ -1,5 +1,7 @@
 # Haii, saya Bagaskara Amukti Palapa
 
+![Streak kontribusi GitHub, diperbarui otomatis tiap 6 jam](quote-card.svg)
+
 Mahasiswa Teknik Informatika di Universitas Bina Darma, Palembang. Saya aktif ikut lomba CTF dan lagi mendalami defensive security, terutama threat detection. Di luar itu saya bikin aplikasi web pakai JavaScript, TypeScript, Vue.js, dan Laravel, dan sesekali eksperimen LLM lokal dengan Ollama dan RAG.
 
 Di internet saya juga pakai nama Mooncrust: [mooncrust.my.id](https://mooncrust.my.id/)
