@@ -1,74 +1,40 @@
-<h1 align="center">Haii ! I'm Bagaskara Amukti Palapa</h1>
+# Haii, saya Bagaskara Amukti Palapa
 
-<p align="center">
-  <b>Informatics Engineering • Universitas Bina Darma, Palembang</b><br>
-  <i>Full-Stack Web Developer &nbsp;·&nbsp; Blue Team Security Enthusiast &nbsp;·&nbsp; AI Explorer</i>
-</p>
+Mahasiswa Teknik Informatika di Universitas Bina Darma, Palembang. Saya aktif ikut lomba CTF dan lagi mendalami defensive security, terutama threat detection. Di luar itu saya bikin aplikasi web pakai JavaScript, TypeScript, Vue.js, dan Laravel, dan sesekali eksperimen LLM lokal dengan Ollama dan RAG.
 
-<p align="center">
-  <a href="mailto:karabagas580@gmail.com">
-    <img src="https://img.shields.io/badge/karabagas580@gmail.com-1A1B27?style=for-the-badge&logo=gmail&logoColor=7AA2F7&labelColor=1A1B27" alt="Email">
-  </a>
-  <a href="https://github.com/BagaskaraAP-Dev">
-    <img src="https://img.shields.io/badge/BagaskaraAP--Dev-1A1B27?style=for-the-badge&logo=github&logoColor=7AA2F7&labelColor=1A1B27" alt="GitHub">
-  </a>
-  <img src="https://img.shields.io/badge/Palembang,_Indonesia-1A1B27?style=for-the-badge&logo=googlemaps&logoColor=7AA2F7&labelColor=1A1B27" alt="Palembang">
-</p>
+Di internet saya juga pakai nama Mooncrust: [mooncrust.my.id](https://mooncrust.my.id/)
 
----
+## Prestasi
 
-<!-- Animated Pixel & Fire Quote Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BagaskaraAP-Dev/BagaskaraAP-Dev/main/quote-card.svg?v=clean_now" alt="Core Philosophy - Bagaskara Amukti Palapa" width="100%">
-</p>
+- Juara 2 LKS Cyber Security tingkat Provinsi Sumatera Selatan (2025)
+- Juara 2 Nusantara Cyber Security tingkat Provinsi Sumatera Selatan (2026)
+- Juara 3 IT Festival Cyber Security, Politeknik Negeri Sriwijaya (2026)
 
----
+## Proyek
 
-<!-- Stats Row: 3 stats in 1 row dengan fire streak -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-stats-extended.vercel.app/api?username=BagaskaraAP-Dev&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub stats" />
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=BagaskaraAP-Dev&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="GitHub streak" />
-    </td>
-    <td align="center">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=BagaskaraAP-Dev&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true" height="150" alt="Top languages" />
-    </td>
-  </tr>
-</table>
+- **[Dang Lupa ko Komering](https://github.com/BagaskaraAP-Dev/danglupakokomering)**: portal budaya Suku Komering untuk lomba Vibe Coding IT Festival 2026. Ada penerjemah Indonesia ke Basa Kumoring (dan sebaliknya) dengan kamus 3.739 kata. [Buka situsnya](https://danglupakokomering.mooncrust.my.id)
+- **[AeroSense](https://github.com/BagaskaraAP-Dev/aerosense)**: pemantau kualitas udara Palembang. Menampilkan AQI saat ini, prakiraan 24 jam, dan cek pemakaian masker lewat kamera yang diproses langsung di HP. [Coba di sini](https://aerosense-pied.vercel.app)
+- **[Kostan](https://github.com/BagaskaraAP-Dev/kostan-bagaskaraap-dev)**: aplikasi reservasi kamar kost dengan Node.js, Express, dan SQLite. Panel admin untuk verifikasi pembayaran dan menangani laporan kerusakan fasilitas.
+- **[mooncrust-cli](https://github.com/BagaskaraAP-Dev/mooncrust-cli)**: CLI untuk Mooncrust AI, tersedia sebagai binary Linux dan Windows.
+- **BDCA Learn** (repo privat): platform belajar untuk Bidar Cyber Army, berisi latihan Excel, terminal Linux, dan cybersecurity.
+
+## Writeup CTF
+
+- [picoCTF](https://github.com/BagaskaraAP-Dev/Writeup-PicoCTF-Bagaskara-Amukti-Palapa): 10 soal level Hard, dari web, binary exploitation, reverse engineering, sampai forensics
+- [TechtonicExpo CTF 2026](https://github.com/BagaskaraAP-Dev/Writeup-Techtonic-CTF-2026): crypto, forensics, pwn, dan web
+
+## Sertifikat
+
+- White-hat Hacker Essentials
+- Blue Team Fundamentals
+- Fundamental Front-End Web Development
+- Pelatihan Vibe Coding, Politeknik Negeri Sriwijaya (2026)
+
+## Pendidikan
+
+- S1 Teknik Informatika, Universitas Bina Darma (sedang berjalan)
+- SMK Muhammadiyah 03 Sukaraja, lulus 2025
 
 ---
 
-<!-- About / Bio -->
-<p align="center">
-  <b>Cyber Security &amp; Blue Team</b> — Fokus pada defensive security, threat detection, dan aktif CTF<br>
-  <b>Full-Stack Development</b> — Membangun aplikasi web modern dengan JavaScript, TypeScript, Vue.js, PHP &amp; Laravel, dan REST API<br>
-  <b>AI &amp; LLM Exploration</b> — Eksplorasi local LLMs, Ollama, RAG, dan agentic workflow<br>
-  <b>Education</b> — S1 Teknik Informatika di Universitas Bina Darma<br>
-  <b>Education</b> — SMK Muhammadiyah 03 Sukaraja (2025)
-</p>
-
----
-
-<!-- Selected Projects -->
-<h3 align="center">Selected Projects</h3>
-
-- **[BDCA Learn](https://github.com/BagaskaraAP-Dev/bdca-learn)** — Platform belajar interaktif dengan terminal Linux sandboxed &amp; formula engine
-- **[Kostan Management](https://github.com/BagaskaraAP-Dev/kostan-bagaskaraap-dev)** — Sistem manajemen booking &amp; properti kosan full-stack dengan automated CI/CD
-- **[Mooncrust AI](https://github.com/BagaskaraAP-Dev/MOONCRUST-AI-BELUM-FINAL)** — Web interface chatbot asisten AI interaktif dengan state management
-- **[Writeup CTF](https://github.com/BagaskaraAP-Dev/Writeup-Techtonic-CTF-2026)** — Kumpulan catatan dan solusi kompetisi CTF (Forensics, Crypto, Web)
-
----
-
-<!-- Honors & Certifications -->
-<h3 align="center">Honors &amp; Certifications</h3>
-
-- 🥈 **2nd Place Winner**, LKS Cyber Security Tingkat Provinsi Sumatera Selatan (2025)
-- 🥈 **2nd Place Winner**, Nusantara Cyber Security Tingkat Provinsi Sumatera Selatan (2026)
-- 🥉 **3rd Place Winner**, IT Festival Cyber Security, Politeknik Negeri Sriwijaya (POLSRI, 2026)
-- 📜 **White-hat Hacker Essentials**, Certificate of Completion
-- 📜 **Blue Team Fundamentals**, Certificate of Completion
-- 📜 **Fundamental Front-End Web Development**, Certificate of Completion
-- 📜 **Pelatihan Vibe Coding**, Politeknik Negeri Sriwijaya (POLSRI, 2026
+Kontak: [karabagas580@gmail.com](mailto:karabagas580@gmail.com)
