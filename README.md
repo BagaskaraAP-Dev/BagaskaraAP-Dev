@@ -24,6 +24,12 @@ Di internet saya juga pakai nama Mooncrust: [mooncrust.my.id](https://mooncrust.
 
 - [picoCTF](https://github.com/BagaskaraAP-Dev/Writeup-PicoCTF-Bagaskara-Amukti-Palapa): 10 soal level Hard, dari web, binary exploitation, reverse engineering, sampai forensics
 - [TechtonicExpo CTF 2026](https://github.com/BagaskaraAP-Dev/Writeup-Techtonic-CTF-2026): crypto, forensics, pwn, dan web
+- [Cyber Frontier 2026 — Beyond the Attack](https://github.com/BagaskaraAP-Dev/cyber-frontier-2026-beyond-the-attack): 15 soal, dari web, reverse engineering, crypto, forensics, network, misc, sampai OSINT
+- [CTF POLSRI 2026](https://github.com/BagaskaraAP-Dev/ctf-polsri-2026): web exploitation
+- [Mooncrust — Deep Space Recon](https://github.com/BagaskaraAP-Dev/mooncrust-deep-space-recon): recon dan skrip solver
+- [BDCA — Gubernur Helikopter](https://github.com/BagaskaraAP-Dev/bdca-gubernur-helikopter): seri challenge Chapter 1–5
+- [Martabak Manis](https://github.com/BagaskaraAP-Dev/martabak-manis): writeup tim
+- [IT Festival 2026 (MMC)](https://github.com/BagaskaraAP-Dev/festi-2026-mmc): writeup tim MMC
 
 ## Sertifikat
 
