@@ -11,6 +11,7 @@ Di internet saya juga pakai nama Mooncrust: [mooncrust.my.id](https://mooncrust.
 - Juara 2 LKS Cyber Security tingkat Provinsi Sumatera Selatan (2025)
 - Juara 2 Nusantara Cyber Security tingkat Provinsi Sumatera Selatan (2026)
 - Juara 3 IT Festival Cyber Security, Politeknik Negeri Sriwijaya (2026)
+- Juara 2 Vibe Coding, IT Festival Politeknik Negeri Sriwijaya (2026)
 
 ## Proyek
 
