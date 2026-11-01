@@ -1,4 +1,4 @@
-# Hai, saya Bagaskara Amukti Palapa
+# Haii, saya Bagaskara Amukti Palapa
 
 ![Streak kontribusi GitHub, diperbarui otomatis tiap 6 jam](quote-card.svg)
 
