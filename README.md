@@ -32,6 +32,7 @@ Di internet saya juga pakai nama Mooncrust: [mooncrust.my.id](https://mooncrust.
 - [BDCA — Gubernur Helikopter](https://github.com/BagaskaraAP-Dev/bdca-gubernur-helikopter): seri challenge Chapter 1–5
 - [Martabak Manis](https://github.com/BagaskaraAP-Dev/martabak-manis): writeup tim
 - [IT Festival 2026 (MMC)](https://github.com/BagaskaraAP-Dev/festi-2026-mmc): writeup tim MMC
+- [FGTE 2025](https://github.com/BagaskaraAP-Dev/Writeup-FGTE-2025-Bagaskara-Amukti-Palapa): 5 soal, dari forensics, misc, reverse engineering, sampai web
 
 ## Sertifikat
 
