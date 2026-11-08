@@ -23,6 +23,7 @@ Di internet saya juga pakai nama Mooncrust: [mooncrust.my.id](https://mooncrust.
 
 ## Writeup CTF
 
+- [TryHards CTF 2026](https://github.com/BagaskaraAP-Dev/writeup-tryhards-ctf-2026): writeup Tim Ruy oleh Mooncrust — Reverse Engineering, Forensics/Network, Cryptography/Video Stego, dan eksplorasi partial solve
 - [hiCTF 2026 — Hidden Investigations CyberCon](https://github.com/BagaskaraAP-Dev/Writeup-hiCTF-2026-Bagaskara-Amukti-Palapa): 7 soal, dari cryptography, reverse engineering, steganography, sampai android, lengkap dengan diagram alur solusi
 - [picoCTF](https://github.com/BagaskaraAP-Dev/Writeup-PicoCTF-Bagaskara-Amukti-Palapa): 10 soal level Hard, dari web, binary exploitation, reverse engineering, sampai forensics
 - [TechtonicExpo CTF 2026](https://github.com/BagaskaraAP-Dev/Writeup-Techtonic-CTF-2026): crypto, forensics, pwn, dan web
