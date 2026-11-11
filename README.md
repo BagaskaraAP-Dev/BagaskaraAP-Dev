@@ -2,7 +2,7 @@
 
 ![Streak kontribusi GitHub, diperbarui otomatis tiap 6 jam](quote-card.svg)
 
-Mahasiswa Teknik Informatika di Universitas Bina Darma, Palembang, asal Kurungan Nyawa, Buay Madang, OKU Timur, Sumatera Selatan. Saya aktif ikut lomba CTF dan lagi mendalami defensive security, terutama threat detection. Di luar itu saya full stack developer: bikin aplikasi web pakai JavaScript, TypeScript, Vue.js, Laravel, dan PHP, dan sesekali eksperimen LLM lokal dengan Ollama dan RAG.
+Front-end developer pemula dan mahasiswa Teknik Informatika di Universitas Bina Darma, Palembang, asal OKU Timur, Sumatera Selatan. Masih belajar bikin website dan sesekali ikut lomba CTF.
 
 Di internet saya juga pakai nama Mooncrust: [mooncrust.my.id](https://mooncrust.my.id/). Profil lengkap saya ada di [mooncrust.my.id/bagaskara](https://mooncrust.my.id/bagaskara).
 
